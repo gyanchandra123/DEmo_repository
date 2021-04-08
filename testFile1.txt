@@ -1,4 +1,6 @@
  hello this is test file
 
 this line is used to check if the git merge is working in fast forward
-mode
+mode.
+
+this line is added to verify merge conflict , adding this through child branch
