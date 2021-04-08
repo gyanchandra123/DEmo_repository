@@ -4,3 +4,6 @@ adding new line to check the command git diff/difftool cm1 cm2
 
 adding another line to check if the p4merge tool works.
 once again adding another line to see the working of p4mergetool
+
+
+this line is added fromthe sub branch 'updateBranch'.
